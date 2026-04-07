@@ -3,7 +3,14 @@
 <h3 align="center">🚀 Full Stack Developer | AI Automation Architect | Future SaaS Founder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+AI+Automation+Systems;Full+Stack+Developer;Creating+Business+Solutions;Future+Tech+Entrepreneur" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+AI+Automation+Systems;Full+Stack+Developer;WhatsApp+Bot+Expert;Future+Tech+Entrepreneur;Learning+%2B+Building+Daily" />
+</p>
+
+---
+
+<!-- ================= BANNER / GIF ================= -->
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px">
 </p>
 
 ---
@@ -11,81 +18,69 @@
 <!-- ================= ABOUT ================= -->
 ## 💼 About Me
 
-<img align="right" alt="coding" width="180" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">
+I am a **Full Stack Developer and AI Automation Builder** focused on creating real-world business systems.
 
-I am a **developer focused on building real-world systems**, not just projects.
+- 🔹 I design and build **automation systems** (WhatsApp bots, workflows, AI agents)
+- 🔹 I develop **scalable web & mobile applications**
+- 🔹 I create **ERP, CRM & business tools for SMBs**
+- 🔹 I help businesses **increase conversions & automate operations**
+- 🔹 Currently building toward **Freelancing → Agency → SaaS Company**
 
-- 🚀 Designing **AI-powered automation systems (WhatsApp, APIs, workflows)**
-- 🧠 Building **scalable full-stack applications**
-- 🏢 Creating **ERP, CRM & business tools for SMBs**
-- 📈 Helping businesses **automate operations & increase conversions**
-- 🔥 Currently building towards **my own SaaS company**
+💡 I believe in **learning by building real systems**, not just theory.
 
-💡 I believe in:  
-> "Build → Solve → Scale → Automate"
+---
+
+<!-- ================= WHAT I DO ================= -->
+## 🚀 What I Do
+
+- 🤖 AI Automation Systems (n8n, APIs, Workflows)
+- 💬 WhatsApp Chatbot Development
+- 🌐 Full Stack Web Development
+- 📱 Mobile App Development
+- 🧠 AI Integrations & Agents
+- 🎯 Funnel + Lead Generation Systems
+- 🎨 UI/UX Design (Figma, Canva)
+- ✍️ Script Writing & Content Systems
 
 ---
 
 <!-- ================= SKILLS ================= -->
-## ⚙️ Skills & Expertise
+## ⚙️ Tech Stack
 
-### 🎨 Frontend Development
+### 🌐 Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-</p>
-
-### ⚙️ Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,php,express" />
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,mysql,mongodb" />
 </p>
 
 ### 🤖 AI & Automation
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://cdn.simpleicons.org/n8n/FF6D5A" height="40"/>
-<img src="https://cdn.simpleicons.org/openai/white" height="40"/>
+<img src="https://skillicons.dev/icons?i=python,firebase,docker" />
+<img src="https://n8n.io/favicon.ico" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" width="40"/>
+<img src="https://omnidim.io/logo.png" width="40"/>
 </p>
 
-### 🧰 Tools & Platforms
+### 🎨 Design & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,postman" />
-<img src="https://cdn.simpleicons.org/googlecloud" height="40"/>
+<img src="https://skillicons.dev/icons?i=figma,canva,git,github,vscode" />
 </p>
-
-### 🎯 Specialized Tools
-<p>
-<img src="https://img.shields.io/badge/Vapi-AI-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Omnidimension-Automation-purple?style=for-the-badge" />
-</p>
-
-### ✍️ Other Skills
-- Script Writing (AI Agents, Sales Flows)
-- UI/UX Design
-- Business Automation Strategy
-- Funnel & Lead Generation Systems
 
 ---
 
 <!-- ================= PROJECTS ================= -->
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-### 🤖 AI Automation Systems
-- WhatsApp Chatbots (Lead Capture + Follow-ups)
-- API Integrations + Workflow Automation
-- CRM + Notification Systems
+### 🤖 WhatsApp Automation System
+- Automated lead capture, replies & CRM sync  
+- Built for real business use cases  
 
 ### 📦 ERP Software (SMBs)
-- Inventory, Sales, Purchase, Finance
-- Built for real business usage
+- Inventory, Sales, Purchase, Finance modules  
+- Designed for business operations  
 
-### 🌐 Smart Business Websites
-- Conversion-focused landing pages
-- WhatsApp + automation integration
+### 🌐 Business Websites + Automation
+- Lead funnels + WhatsApp integration  
+- Conversion-focused systems  
 
 ---
 
@@ -103,31 +98,14 @@ I am a **developer focused on building real-world systems**, not just projects.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadarshMishra&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadarshMishra&theme=react-dark"/>
 </p>
 
 ---
 
-<!-- ================= WAKATIME ================= -->
-## ⏱️ Coding Activity
+<!-- ================= AUTO DAILY STATS ================= -->
+## ⏳ Coding Activity (Updated Daily)
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<!-- ================= CONTACT ================= -->
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:aadarshmishra2024@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/aadarsh-mishra-38100b2aa">💼 LinkedIn</a> •
-  <a href="https://www.instagram.com/hustle_with_aadarsh/">📸 Instagram</a>
-</p>
-
----
-
-<!-- ================= VISITORS ================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AadarshMishra&color=blue" />
-</p>
+```text
+Loading your coding stats...
